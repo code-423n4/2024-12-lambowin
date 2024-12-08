@@ -109,7 +109,7 @@ The Peg Zone is designed to allow low slippage exchanges between vETH and ETH. T
 
 | Question                                | Answer                       |
 | --------------------------------------- | ---------------------------- |
-| ERC20 used by the protocol              |       None             |
+| ERC20 used by the protocol              |    USDC, USDT            |
 | Test coverage                           | 55.10% (243/441 of statements)                         |
 | ERC721 used  by the protocol            |            None              |
 | ERC777 used by the protocol             |           None                |
